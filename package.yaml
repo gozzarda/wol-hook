@@ -29,7 +29,7 @@ library:
   source-dirs: src
 
 executables:
-  wol-hook-exe:
+  wol-hook:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
